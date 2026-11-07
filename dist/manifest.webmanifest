@@ -1,0 +1,25 @@
+{
+  "name": "StreakFlow — Black & Crimson Liquid Glass PWA",
+  "short_name": "StreakFlow",
+  "description": "Apple-inspired Black & Crimson Liquid Glass productivity, streak, and habit consistency PWA.",
+  "theme_color": "#FF303F",
+  "background_color": "#08090D",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
